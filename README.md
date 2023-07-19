@@ -3,10 +3,7 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text]()
-
-### Mobile View
-![alt text]()
+![alt text](https://github.com/mdabusufian/Portfolio/blob/main/portfolio_website.jpg)
 
 ## Author
 * Md Abu Sufian
